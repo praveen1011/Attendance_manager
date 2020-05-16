@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Amatic SC';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Amatic SC Bold'), local('AmaticSC-Bold'), url('./fonts/AmaticSC-Bold.ttf') format('truetype');
+  }
+/* latin */
+@font-face {
+    font-family: 'Spicy Rice';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Spicy Rice'), local('SpicyRice-Regular'), url('./fonts/SpicyRice-Regular.ttf') format('truetype');  
+}
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Source Code Pro Medium'), local('SourceCodePro-Medium'), url('./fonts/SourceCodePro-Medium.ttf') format('truetype');
+  
+}
